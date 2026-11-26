@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.docscanner.app-debug-67:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.docscanner.app-main-69:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.docscanner.app-debug-67:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.docscanner.app-main-69:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.docscanner.app-debug-67:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.docscanner.app-main-69:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.docscanner.app-debug-67:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.docscanner.app-main-69:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.docscanner.app-debug-67:/xml_file_paths.xml.flat",
+        "source": "com.docscanner.app-main-69:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.docscanner.app-debug-67:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.docscanner.app-main-69:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.docscanner.app-debug-67:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.docscanner.app-main-69:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.docscanner.app-debug-67:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.docscanner.app-main-69:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.docscanner.app-debug-67:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.docscanner.app-main-69:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.docscanner.app-debug-67:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.docscanner.app-main-69:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.docscanner.app-debug-67:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.docscanner.app-main-69:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.docscanner.app-debug-67:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.docscanner.app-main-69:/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
